@@ -14,7 +14,7 @@ responses = {
     "what's the time": "The current time is 4:45 AM ",
     "who make you": " Ravi made me August 16 at 4:46 am",
     "anmol": "He is a kind person ",
-    "list my friends": " Lasun  Anmol hippy bhaii ",
+    "friends": " Lasun  Anmol hippy bhaii ",
     "mummy":"MY mummy is beautiful"
 
     # Add more responses here
